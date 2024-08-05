@@ -108,8 +108,8 @@
 
 @media screen and (max-width: 400px) {
 
-    .galery .contanier,
-    .second-galery .contanier {
+    .galery .container,
+    .second-galery .container {
         grid-template-columns: repeat(2, 150px);
         grid-template-rows: repeat(2, 150px);
     
